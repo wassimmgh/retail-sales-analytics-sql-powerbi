@@ -23,14 +23,25 @@ Dataset: Superstore (Orders / Sales / Profit).
 - Total Profit
 - Margin %
 
+## Business Questions
+- Which category generates the most revenue?
+- Which sub-categories are unprofitable?
+- How do sales evolve over time?
+- What are the YoY growth trends?
+
+  ## Key Insights
+- Technology category drives the highest revenue
+- Furniture has lower margin despite strong sales
+- Some sub-categories generate negative profit
+- Sales show consistent growth with seasonal variations
+
+  
 ## Power BI Dashboard
 ### 1) KPI Overview
 ![KPI Overview](powerbi/kpi_overview.png)
 
-### 2) Time Analysis
-(ajoute tes images time_analysis_*.png)
 
-### 3) Category Analysis
+### 2) Category Analysis
 ![Category Analysis](powerbi/category_analysis.png)
 
 ## SQL Scripts
